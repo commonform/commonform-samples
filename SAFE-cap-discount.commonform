@@ -42,7 +42,7 @@ Definitions \\
 
     \\ ""Change of Control"" means
 
-        \\ a transaction or series of related transactions in which any "person" or "group" (within the meaning of Section 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended), becomes the "beneficial owner" (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended), directly or indirectly, of more than 50% of the outstanding voting securities of the <Company> having the right to vote for the election of members of the <Company>'s board of directors,
+        \\ a transaction or series of related transactions in which any "person" or "group" (within the meaning of Section 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended), becomes the "beneficial owner" (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended), directly or indirectly, of more than [Change of Control Voting Block Threshold] of the outstanding voting securities of the <Company> having the right to vote for the election of members of the <Company>'s board of directors,
 
         \\ any reorganization, merger or consolidation of the <Company>, other than a transaction or series of related transactions in which the holders of the voting securities of the <Company> outstanding immediately prior to such transaction or series of related transactions retain, immediately after such transaction or series of related transactions, at least a majority of the total voting power represented by the outstanding voting securities of the <Company> or such other surviving or resulting entity or
 
@@ -164,7 +164,7 @@ Miscellaneous \\
 
     \\ Any provision of this instrument may be amended, waived or modified only upon the written consent of the <Company> and the <Investor>.
 
-    \\ Any notice required or permitted by this instrument will be deemed sufficient when delivered personally or by overnight courier or sent by email to the relevant address listed on the signature page, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at such party's address listed on the signature page, as subsequently modified by written notice.
+    \\ Any notice required or permitted by this instrument will be deemed sufficient when delivered personally or by overnight courier or sent by email to the relevant address listed on the signature page, or [Time Notice is Effective after Deposit in the Mail] hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at such party's address listed on the signature page, as subsequently modified by written notice.
 
     \\ The <Investor> is not entitled, as a holder of this instrument, to vote or receive dividends or be deemed the holder of the <Company>'s capital stock for any purpose, nor will anything contained herein be construed to confer upon the <Investor>, as such, any of the rights of a stockholder of the <Company> or any right to vote for the election of directors or upon any matter submitted to stockholders at any meeting thereof, or to give or withhold consent to any corporate action or to receive notice of meetings, or to receive subscription rights or otherwise until shares have been issued upon the terms as described herein.
 
