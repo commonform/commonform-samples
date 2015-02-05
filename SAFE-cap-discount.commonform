@@ -1,6 +1,8 @@
-!!! This instrument and any securities issuable pursuant hereto have not been registered under the Securities Act of 1933, as amended (the ""Act""), or under the securities laws of certain states. These securities may not be offered, sold or otherwise transferred, pledged or hypothecated except as permitted under the act and applicable state securities laws pursuant to an effective registration statement or an exemption therefrom.
+# Simple Agreement for Future Equity, with discount and cap
 
-This certifies that in exchange for the payment by [Investor Name] (the ""Investor"") of [Purchase Amount] (the ""Purchase Amount"") on or about [Payment Date], [Company Name], a Delaware corporation (the ""Company""), hereby issues to the <Investor> the right to certain shares of the <Company>'s capital stock, subject to the terms set forth below.
+!! This instrument and any securities issuable pursuant hereto have not been registered under the Securities Act of 1933, as amended (the ""Act""), or under the securities laws of certain states. These securities may not be offered, sold or otherwise transferred, pledged or hypothecated except as permitted under the act and applicable state securities laws pursuant to an effective registration statement or an exemption therefrom.
+
+\\ This certifies that in exchange for the payment by [Investor Name] (the ""Investor"") of [Purchase Amount] (the ""Purchase Amount"") on or about [Payment Date], [Company Name], a Delaware corporation (the ""Company""), hereby issues to the <Investor> the right to certain shares of the <Company>'s capital stock, subject to the terms set forth below.
 
 \\ The ""Valuation Cap"" of this <SAFE> is [Valuation Cap].
 
@@ -10,7 +12,7 @@ This certifies that in exchange for the payment by [Investor Name] (the ""Invest
 
 Events \\
 
-    Equity Financing \\ If there is an <Equity Financing> before the expiration or termination of this instrument, the <Company> will automatically issue to the <Investor> a number of shares of <SAFE Preferred Stock> equal to the <Purchase Amount> divided by either:
+    Equity Financing \\ If there is an <Equity Financing> before the expiration or termination of this instrument, the <Company> will automatically issue to the <Investor> a number of shares of <SAFE Preferred Stock> equal to the <Purchase Amount> divided by either
 
         \\ the <SAFE Price> or
 
@@ -172,4 +174,4 @@ Miscellaneous \\
 
     \\ All rights and obligations hereunder will be governed by the laws of the [Governing Law Jurisdiction], without regard to the conflicts of law provisions of such jurisdiction.
 
-In witness whereof, the undersigned have caused this instrument to be duly executed and delivered.
+\\ In witness whereof, the undersigned have caused this instrument to be duly executed and delivered.
