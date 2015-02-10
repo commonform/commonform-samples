@@ -2,21 +2,13 @@
 
 \\ This certifies that in exchange for the payment by [Investor Name] (the ""Investor"") of [Purchase Amount] (the ""Purchase Amount"") on or about [Purchase Date], [Company Name], a [Company Legal Form] (the ""Company""), hereby issues to the <Investor> the right to certain shares of the <Company>'s capital stock, subject to the terms set forth below.
 
-\\ The ""Valuation Cap"" of this <SAFE> is [Valuation Cap].
-
 \\ The ""Discount Rate"" of this <SAFE> is [Discount Rate].
 
 \\ See {Definitions} for certain additional defined terms.
 
 Events \\
 
-    Equity Financing \\ If there is an <Equity Financing> before the expiration or termination of this instrument, the <Company> will automatically issue to the <Investor> a number of shares of <SAFE Preferred Stock> equal to the <Purchase Amount> divided by either
-
-        \\ the <SAFE Price> or
-
-        \\ the <Discount Price>,
-
-    whichever calculation results in a greater number of shares of <SAFE Preferred Stock>.
+    Equity Financing \\ If there is an <Equity Financing> before the expiration or termination of this instrument, the <Company> will automatically issue to the <Investor> a number of shares of <SAFE Preferred Stock> equal to the <Purchase Amount> divided by the <Discount Price>.
 
     In connection with the issuance of <SAFE Preferred Stock> by the <Company> to the <Investor> pursuant to this provision:
 
@@ -47,18 +39,6 @@ Definitions \\
         \\ a sale, lease or other disposition of all or substantially all of the assets of the <Company>.
 
     \\ ""Common Stock"" means the common stock of the <Company>.
-
-    \\ ""Company Capitalization"" means the sum of:
-
-        \\ all shares of the <Company>'s capital stock (on an as-converted basis) issued and outstanding, assuming exercise or conversion of all outstanding vested and unvested options, warrants and other convertible securities, but excluding
-
-            \\ this instrument,
-
-            \\ all other <SAFE>s, and
-
-            \\ convertible promissory notes; and
-
-        \\ all shares of <Common Stock> reserved and available for future grant under any equity incentive or similar plan of the <Company>, including any equity incentive or similar plan created or increased in connection with the <Equity Financing>.
 
     \\ ""Discount Price"" means the product of the price per share of the Standard Preferred Stock sold in the <Equity Financing> multiplied by the <Discount Rate>.
 
@@ -94,9 +74,9 @@ Definitions \\
 
     \\ ""Liquidity Event"" means a <Change of Control> or an <Initial Public Offering>.
 
-    \\ ""Liquidity Price"" means the price per share equal to the quotient obtained by dividing
+    \\ ""Liquidity Price"" means the price per share equal to the quotient obtained by dividing 
 
-        \\ the <Valuation Cap> by
+        \\ [Liquidity Price Numerator] by
 
         \\ the <Liquidity Capitalization> as of immediately prior to the <Liquidity Event>.
 
@@ -108,17 +88,7 @@ Definitions \\
 
     \\ ""SAFE"" means an instrument containing a future right to the <Company>'s capital stock, similar in form and content to this instrument, purchased by investors for the purpose of funding the <Company>'s business operations.
 
-    \\ ""SAFE Preferred Stock"" means the shares of a series of the <Company>'s preferred stock issued to the <Investor> in an <Equity Financing>, which will have the identical rights, privileges, preferences and restrictions as the shares of <Standard Preferred Stock>, other than with respect to the per share liquidation preference, which will equal the <SAFE Price> or the <Discount Price> (as applicable), as well as price-based antidilution protection and dividend rights, which will be based on such <SAFE Price> or the <Discount Price> (as applicable).
-
-    \\ ""SAFE Price"" means the price per share equal to the quotient obtained by dividing
-
-        \\ the <Valuation Cap> by
-
-        \\ either
-
-            \\ the <Company Capitalization> as of immediately prior to the <Equity Financing> or
-
-            \\ the capitalization of the <Company> used to calculate the price per share of the <Standard Preferred Stock>, whichever calculation results in a lower price.
+    \\ ""SAFE Preferred Stock"" means the shares of a series of the <Company>'s preferred stock issued to the <Investor> in an <Equity Financing>, which will have the identical rights, privileges, preferences and restrictions as the shares of <Standard Preferred Stock>, other than with respect to the per share liquidation preference, which will equal the <Discount Price>, as well as price-based antidilution protection and dividend rights, which will be based on such <Discount Price>.
 
     \\ ""Standard Preferred Stock"" means the shares of a series of the <Company>'s preferred stock issued to the investors investing new money in the <Company> in connection with the initial closing of the <Equity Financing>.
 

@@ -2,25 +2,13 @@
 
 \\ This certifies that in exchange for the payment by [Investor Name] (the ""Investor"") of [Purchase Amount] (the ""Purchase Amount"") on or about [Purchase Date], [Company Name], a [Company Legal Form] (the ""Company""), hereby issues to the <Investor> the right to certain shares of the <Company>'s capital stock, subject to the terms set forth below.
 
-\\ The ""Valuation Cap"" of this <SAFE> is [Valuation Cap].
-
-\\ The ""Discount Rate"" of this <SAFE> is [Discount Rate].
-
-\\ See {Definitions} for certain additional defined terms.
-
 Events \\
 
-    Equity Financing \\ If there is an <Equity Financing> before the expiration or termination of this instrument, the <Company> will automatically issue to the <Investor> a number of shares of <SAFE Preferred Stock> equal to the <Purchase Amount> divided by either
+    Equity Financing \\ If there is an <Equity Financing> before the expiration or termination of this instrument, the <Company> will automatically issue to the <Investor> a number of shares of preferred stock sold in the <Equity Financing> equal to the <Purchase Amount> divided by the price per share of the preferred stock.
 
-        \\ the <SAFE Price> or
+    In connection with the issuance of such shares of preferred stock by the <Company> to the <Investor> pursuant to this provision:
 
-        \\ the <Discount Price>,
-
-    whichever calculation results in a greater number of shares of <SAFE Preferred Stock>.
-
-    In connection with the issuance of <SAFE Preferred Stock> by the <Company> to the <Investor> pursuant to this provision:
-
-        \\ The <Investor> will execute and deliver to the <Company> all transaction documents related to the <Equity Financing>; provided, that such transaction documents are the same documents to be entered into with the purchasers of the <Standard Preferred Stock>, with appropriate variations for the <SAFE Preferred Stock>;
+        \\ The <Investor> will execute and deliver to the <Company> all transaction documents related to the <Equity Financing>; provided, that such transaction documents are the same documents to be entered into with the purchasers of the preferred stock;
 
         \\ The <Investor> and the <Company> will execute a <Pro Rata Rights Agreement>, unless the <Investor> is already included in such rights in the transaction documents related to the <Equity Financing>; and
 
@@ -30,7 +18,7 @@ Events \\
 
         Cash Payment \\ receive a cash payment equal to the <Purchase Amount> (subject to {Automatic Conversion}) or
 
-        Automatic Conversion \\ automatically receive from the <Company> a number of shares of <Common Stock> equal to the <Purchase Amount> divided by the <Liquidity Price>, if the <Investor> fails to select the cash option. Thereafter, this instrument will expire and terminate.
+        Automatic Conversion \\ automatically receive from the <Company> a number of shares of <Common Stock> equal to the <Purchase Amount> divided by the fair market value of the <Common Stock> at the time of the <Liquidity Event> (determined by reference to the purchase price payable in connection with such <Liquidity Event>) (the ""Liquidity Price""), if the <Investor> fails to select the cash option. Thereafter, this instrument will expire and terminate.
 
         In connection with {Cash Payment}, the <Purchase Amount> will be due and payable by the <Company> to the <Investor> immediately prior to, or concurrent with, the consummation of the <Liquidity Event>. If there are not enough funds to pay the <Investor> and holders of other <SAFE>s (collectively, the ""Cash-Out Investors"") in full, then all of the <Company>'s available funds will be distributed with equal priority and pro rata among the <Cash-Out Investors> in proportion to their <Purchase Amount>s, and the <Cash-Out Investors> will automatically receive the number of shares of <Common Stock> equal to the remaining unpaid <Purchase Amount> divided by the <Liquidity Price>. In connection with a <Change of Control> intended to qualify as a tax-free reorganization, the <Company> may reduce, pro rata, the <Purchase Amount>s payable to the <Cash-Out Investors> by the amount determined by its board of directors in good faith to be advisable for such <Change of Control> to qualify as a tax-free reorganization for U.S. federal income tax purposes, and in such case, the <Cash-Out Investors> will automatically receive the number of shares of <Common Stock> equal to the remaining unpaid <Purchase Amount> divided by the <Liquidity Price>.
 
@@ -48,20 +36,6 @@ Definitions \\
 
     \\ ""Common Stock"" means the common stock of the <Company>.
 
-    \\ ""Company Capitalization"" means the sum of:
-
-        \\ all shares of the <Company>'s capital stock (on an as-converted basis) issued and outstanding, assuming exercise or conversion of all outstanding vested and unvested options, warrants and other convertible securities, but excluding
-
-            \\ this instrument,
-
-            \\ all other <SAFE>s, and
-
-            \\ convertible promissory notes; and
-
-        \\ all shares of <Common Stock> reserved and available for future grant under any equity incentive or similar plan of the <Company>, including any equity incentive or similar plan created or increased in connection with the <Equity Financing>.
-
-    \\ ""Discount Price"" means the product of the price per share of the Standard Preferred Stock sold in the <Equity Financing> multiplied by the <Discount Rate>.
-
     \\ ""Distribution"" means the transfer to holders of the <Company>'s capital stock by reason of their ownership of such stock of cash or other property without consideration whether by way of dividend or otherwise, other than dividends on the <Common Stock> payable in <Common Stock>, or the purchase or redemption of shares of the <Company> by the <Company> or its subsidiaries for cash or property other than:
 
         \\ repurchases of the <Common Stock> issued to or held by employees, officers, directors or consultants of the <Company> or its subsidiaries upon termination of their employment or services pursuant to agreements providing for the right of said repurchase,
@@ -78,7 +52,7 @@ Definitions \\
 
         \\ any other liquidation, dissolution or winding up of the <Company> (excluding a <Liquidity Event>), whether voluntary or involuntary.
 
-    \\ ""Equity Financing"" means a bona fide transaction or series of transactions with the principal purpose of raising capital, pursuant to which the <Company> issues and sells shares of preferred stock of the <Company> at a fixed pre-money valuation.
+    \\ ""Equity Financing"" means a bona fide transaction or series of transactions with the principal purpose to raise capital, pursuant to which the <Company> issues and sells shares of preferred stock of the <Company> at a fixed pre-money valuation with an aggregate sales price of not less than [Equity Financing Purchase Price Threshold] (exluding all <Subsequent Convertible Securities>).
 
     \\ ""Initial Public Offering"" means the closing of the <Company>'s first firm commitment underwritten initial public offering of the <Common Stock> pursuant to a registration statement filed under the Securities Act of 1933, as amended (the ""Securities Act"").
 
@@ -94,12 +68,6 @@ Definitions \\
 
     \\ ""Liquidity Event"" means a <Change of Control> or an <Initial Public Offering>.
 
-    \\ ""Liquidity Price"" means the price per share equal to the quotient obtained by dividing
-
-        \\ the <Valuation Cap> by
-
-        \\ the <Liquidity Capitalization> as of immediately prior to the <Liquidity Event>.
-
     \\ ""Pro Rata Rights Agreement"" means a written agreement between the <Company> and the <Investor> (and holders of other <SAFE>s, as appropriate) giving the <Investor> a right to purchase its pro rata share of private placements of securities by the <Company> occurring after the <Equity Financing>, subject to customary exceptions. Pro rata for purposes of the <Pro Rata Rights Agreement> will be calculated based on the ratio of
 
         \\ the number of shares of capital stock of the <Company> owned by the <Investor> immediately prior to the issuance of the securities to
@@ -108,19 +76,19 @@ Definitions \\
 
     \\ ""SAFE"" means an instrument containing a future right to the <Company>'s capital stock, similar in form and content to this instrument, purchased by investors for the purpose of funding the <Company>'s business operations.
 
-    \\ ""SAFE Preferred Stock"" means the shares of a series of the <Company>'s preferred stock issued to the <Investor> in an <Equity Financing>, which will have the identical rights, privileges, preferences and restrictions as the shares of <Standard Preferred Stock>, other than with respect to the per share liquidation preference, which will equal the <SAFE Price> or the <Discount Price> (as applicable), as well as price-based antidilution protection and dividend rights, which will be based on such <SAFE Price> or the <Discount Price> (as applicable).
+\\ ""Subsequent Convertible Securities"" means convertible securities that the <Company> may issue after the issuance of this instrument for with the principal purpose of raising capital, including but not limited to, other <SAFE>s, convertible debt instruments and other convertible securities.  <Subsequent Convertible Securities> excludes
 
-    \\ ""SAFE Price"" means the price per share equal to the quotient obtained by dividing
+    \\ options issued pursuant to any equity incentive or similar plan of the <Company>,
 
-        \\ the <Valuation Cap> by
+    \\ convertible securities issued or issuable to
 
-        \\ either
+        \\ banks, equipment lessors, financial institutions or other persons engaged in the business of making loans pursuant to a debt financing or commercial leasing or
 
-            \\ the <Company Capitalization> as of immediately prior to the <Equity Financing> or
+        \\ suppliers or third party service providers in connection with the provision of goods or services pursuant to transactions and
 
-            \\ the capitalization of the <Company> used to calculate the price per share of the <Standard Preferred Stock>, whichever calculation results in a lower price.
+    \\ convertible securities issued or issuable in connection with sponsored research, collaboration, technology license, development, OEM, marketing or other similar agreements or strategic partnerships.
 
-    \\ ""Standard Preferred Stock"" means the shares of a series of the <Company>'s preferred stock issued to the investors investing new money in the <Company> in connection with the initial closing of the <Equity Financing>.
+"MFN" Amendment Provision \\ If the <Company> issues any <Subsequent Convertible Securities> prior to the termination of this instrument, the <Company> will promptly provide the <Investor> with written notice thereof, together with a copy of all documentation relating to such <Subsequent Convertible Securities> and, upon written request of the <Investor>, any additional information related to such <Subsequent Convertible Securities> as may be reasonably requested by the <Investor>. In the event the <Investor> determines that the terms of the <Subsequent Convertible Securities> are preferable to the terms of this instrument, the <Investor> will notify the <Company> in writing. Promptly after receipt of such written notice from the <Investor>, the <Company> agrees to amend and restate this <SAFE> to be identical to the instruments evidencing the <Subsequent Convertible Securities>.
 
 Company Representations \\
 

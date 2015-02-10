@@ -4,23 +4,19 @@
 
 \\ The ""Valuation Cap"" of this <SAFE> is [Valuation Cap].
 
-\\ The ""Discount Rate"" of this <SAFE> is [Discount Rate].
-
 \\ See {Definitions} for certain additional defined terms.
 
 Events \\
 
-    Equity Financing \\ If there is an <Equity Financing> before the expiration or termination of this instrument, the <Company> will automatically issue to the <Investor> a number of shares of <SAFE Preferred Stock> equal to the <Purchase Amount> divided by either
+    Equity Financing \\ If there is an <Equity Financing> before the expiration or termination of this instrument, the <Company> will automatically issue to the <Investor> either:
 
-        \\ the <SAFE Price> or
+        \\ a number of shares of <Standard Preferred Stock> sold in the <Equity Financing> equal to the <Purchase Amount> divided by the price per share of the <Standard Preferred Stock>, if the pre-money valuation is less than or equal to the <Valuation Cap>; or
 
-        \\ the <Discount Price>,
+        \\ a number of shares of <SAFE Preferred Stock> equal to the <Purchase Amount> divided by the <SAFE Price>, if the pre-money valuation is greater than the <Valuation Cap>.
 
-    whichever calculation results in a greater number of shares of <SAFE Preferred Stock>.
+    In connection with the issuance of <Standard Preferred Stock> or <SAFE Preferred Stock>, as applicable, by the <Company> to the <Investor> pursuant to this provision:
 
-    In connection with the issuance of <SAFE Preferred Stock> by the <Company> to the <Investor> pursuant to this provision:
-
-        \\ The <Investor> will execute and deliver to the <Company> all transaction documents related to the <Equity Financing>; provided, that such transaction documents are the same documents to be entered into with the purchasers of the <Standard Preferred Stock>, with appropriate variations for the <SAFE Preferred Stock>;
+        \\ The <Investor> will execute and deliver to the <Company> all transaction documents related to the <Equity Financing>; provided, that such transaction documents are the same documents to be entered into with the purchasers of the <Standard Preferred Stock>, with appropriate variations for the <SAFE Preferred Stock> if applicable;
 
         \\ The <Investor> and the <Company> will execute a <Pro Rata Rights Agreement>, unless the <Investor> is already included in such rights in the transaction documents related to the <Equity Financing>; and
 
@@ -59,8 +55,6 @@ Definitions \\
             \\ convertible promissory notes; and
 
         \\ all shares of <Common Stock> reserved and available for future grant under any equity incentive or similar plan of the <Company>, including any equity incentive or similar plan created or increased in connection with the <Equity Financing>.
-
-    \\ ""Discount Price"" means the product of the price per share of the Standard Preferred Stock sold in the <Equity Financing> multiplied by the <Discount Rate>.
 
     \\ ""Distribution"" means the transfer to holders of the <Company>'s capital stock by reason of their ownership of such stock of cash or other property without consideration whether by way of dividend or otherwise, other than dividends on the <Common Stock> payable in <Common Stock>, or the purchase or redemption of shares of the <Company> by the <Company> or its subsidiaries for cash or property other than:
 
@@ -108,7 +102,7 @@ Definitions \\
 
     \\ ""SAFE"" means an instrument containing a future right to the <Company>'s capital stock, similar in form and content to this instrument, purchased by investors for the purpose of funding the <Company>'s business operations.
 
-    \\ ""SAFE Preferred Stock"" means the shares of a series of the <Company>'s preferred stock issued to the <Investor> in an <Equity Financing>, which will have the identical rights, privileges, preferences and restrictions as the shares of <Standard Preferred Stock>, other than with respect to the per share liquidation preference, which will equal the <SAFE Price> or the <Discount Price> (as applicable), as well as price-based antidilution protection and dividend rights, which will be based on such <SAFE Price> or the <Discount Price> (as applicable).
+    \\ ""SAFE Preferred Stock"" means the shares of a series of the <Company>'s preferred stock issued to the <Investor> in an <Equity Financing>, having the identical rights, privileges, preferences and restrictions as the shares of <Standard Preferred Stock>, other than with respect to the per share liquidation preference, which will equal the <SAFE Price>, as well as price-based antidilution protection and dividend rights, which will be based on such <SAFE Price>.
 
     \\ ""SAFE Price"" means the price per share equal to the quotient obtained by dividing
 
