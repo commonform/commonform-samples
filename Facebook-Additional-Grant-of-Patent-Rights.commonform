@@ -1,21 +1,21 @@
-\\ ""Software"" means the [description of software].
+    \\ ""Software"" means the [description of software].
 
-Patent License \\ [legal name of licensor] (""Licensor"") hereby grants to each recipient of the <Software> (""Licensee"") a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (subject to {Patent License Termination} termination provision below) license under any <Necessary Claim>, to make, have made, use, sell, offer to sell, import, and otherwise transfer the <Software>. For avoidance of doubt, no license is granted under rights of <Licensor> in any patent claims that are infringed by:
+    \ Patent License \ [legal name of licensor] (""Licensor"") hereby grants to each recipient of the <Software> (""Licensee"") a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (subject to {Patent License Termination} termination provision below) license under any <Necessary Claim>, to make, have made, use, sell, offer to sell, import, and otherwise transfer the <Software>. For avoidance of doubt, no license is granted under rights of <Licensor> in any patent claims that are infringed by:
 
-    \\ modifications to the <Software> made by <Licensee> or any third party or
+        \\ modifications to the <Software> made by <Licensee> or any third party or
 
-    \\ the <Software> in combination with any software or other technology.
+        \\ the <Software> in combination with any software or other technology.
 
-Patent License Termination \\ The license granted hereunder will terminate, automatically and without notice, if <Licensee> (or any subsidiaries, corporate affiliates or agents of <Licensee>) initiate directly or indirectly, or take a direct financial interest in, any <Patent Assertion>:
+    \ Patent License Termination \ The license granted hereunder will terminate, automatically and without notice, if <Licensee> (or any subsidiaries, corporate affiliates or agents of <Licensee>) initiate directly or indirectly, or take a direct financial interest in, any <Patent Assertion>:
 
-    Patent Assertions Against Licensor \\ against <Licensor> or any of its subsidiaries or corporate affiliates,
+        \ Patent Assertions Against Licensor \ against <Licensor> or any of its subsidiaries or corporate affiliates,
 
-    \\ against any party if such <Patent Assertion> arises in whole or in part from any software, technology, product or service of <Licensor> or any of its subsidiaries or corporate affiliates, or
+        \\ against any party if such <Patent Assertion> arises in whole or in part from any software, technology, product or service of <Licensor> or any of its subsidiaries or corporate affiliates, or
 
-    \\ against any party relating to the <Software>.
+        \\ against any party relating to the <Software>.
 
-Termination Exception \\ Notwithstanding {Patent License Termination}, if <Licensor> or any of its subsidiaries or corporate affiliates files a lawsuit alleging patent infringement against <Licensee> in the first instance, and <Licensee> respond by filing a patent infringement counterclaim in that lawsuit against that party that is unrelated to the <Software>, the license granted hereunder will not terminate under {Patent Assertions Against Licensor} due to such counterclaim.
+    \ Termination Exception \ Notwithstanding {Patent License Termination}, if <Licensor> or any of its subsidiaries or corporate affiliates files a lawsuit alleging patent infringement against <Licensee> in the first instance, and <Licensee> respond by filing a patent infringement counterclaim in that lawsuit against that party that is unrelated to the <Software>, the license granted hereunder will not terminate under {Patent Assertions Against Licensor} due to such counterclaim.
 
-\\ A ""Necessary Claim"" is a claim of a patent owned by <Licensor> that is necessarily infringed by the <Software> standing alone.
+    \\ A ""Necessary Claim"" is a claim of a patent owned by <Licensor> that is necessarily infringed by the <Software> standing alone.
 
-\\ A ""Patent Assertion"" is any lawsuit or other action alleging direct, indirect, or contributory infringement or inducement to infringe any patent, including a cross-claim or counterclaim.
+    \\ A ""Patent Assertion"" is any lawsuit or other action alleging direct, indirect, or contributory infringement or inducement to infringe any patent, including a cross-claim or counterclaim.
