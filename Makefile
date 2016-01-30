@@ -6,7 +6,7 @@ LISPY=node_modules/.bin/lispy-json
 all: $(json)
 
 $(COMMONFORM):
-	npm i --save commonform-cli@0.10.x
+	npm i --save commonform-cli@0.13.x
 
 $(LISPY):
 	npm i --save lispy-json
